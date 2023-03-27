@@ -15,5 +15,5 @@ This Project utilised a dataset with 6 tables in csv format and a total of 28M r
 - <b>What's the average fare per trip we expect to collect?</b> 
 - <b>What's the average distance traveled per trip?</b> 
 - <b>Which times of the day will be busiest?</b> 
-- <b>hat will likely be the most popular pick-up and drop-off locations?
+- <b>What will likely be the most popular pick-up and drop-off locations?
 </b> 
