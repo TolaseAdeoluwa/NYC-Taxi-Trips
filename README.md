@@ -8,11 +8,12 @@ This Project utilised a dataset with 6 tables in csv format and a total of 28M r
 
 - <b>Power BI</b> 
 
-<h2>Insights:</h2>
-1. Total trips per month?
-2. Total trips per year?
-3. What's the average fare per trip we expect to collect?
-4. What's the average distance traveled per trip?
-5. Which times of the day will be busiest?
-6. What will likely be the most popular pick-up and drop-off locations?
+<h2>Insights</h2>
 
+- <b>Total trips per month?</b> 
+- <b>Total trips per year?</b> 
+- <b>What's the average fare per trip we expect to collect?</b> 
+- <b>What's the average distance traveled per trip?</b> 
+- <b>Which times of the day will be busiest?</b> 
+- <b>hat will likely be the most popular pick-up and drop-off locations?
+</b> 
