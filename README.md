@@ -16,6 +16,3 @@ This Project utilised a dataset with 6 tables in csv format and a total of 28M r
 5. Which times of the day will be busiest?
 6. What will likely be the most popular pick-up and drop-off locations?
 
-<img src="https://drive.google.com/file/d/10bSIbd4b1NLuabpLQeQbisoFHXxBFv0c/view?usp=share_link"/>
-<br />
-<br />
